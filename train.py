@@ -1,4 +1,4 @@
 from aditya import *
 
 print(aditya())
-print(shantanu())
+print(shantanu(34))
